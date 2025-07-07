@@ -1,0 +1,15 @@
+D:\dotnet\csharpfundamental\cSharpFundamental\cleaningServiceTask\bin\Debug\net8.0\cleaningServiceTask.exe
+D:\dotnet\csharpfundamental\cSharpFundamental\cleaningServiceTask\bin\Debug\net8.0\cleaningServiceTask.deps.json
+D:\dotnet\csharpfundamental\cSharpFundamental\cleaningServiceTask\bin\Debug\net8.0\cleaningServiceTask.runtimeconfig.json
+D:\dotnet\csharpfundamental\cSharpFundamental\cleaningServiceTask\bin\Debug\net8.0\cleaningServiceTask.dll
+D:\dotnet\csharpfundamental\cSharpFundamental\cleaningServiceTask\bin\Debug\net8.0\cleaningServiceTask.pdb
+D:\dotnet\csharpfundamental\cSharpFundamental\cleaningServiceTask\obj\Debug\net8.0\cleaningServiceTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\csharpfundamental\cSharpFundamental\cleaningServiceTask\obj\Debug\net8.0\cleaningServiceTask.AssemblyInfoInputs.cache
+D:\dotnet\csharpfundamental\cSharpFundamental\cleaningServiceTask\obj\Debug\net8.0\cleaningServiceTask.AssemblyInfo.cs
+D:\dotnet\csharpfundamental\cSharpFundamental\cleaningServiceTask\obj\Debug\net8.0\cleaningServiceTask.csproj.CoreCompileInputs.cache
+D:\dotnet\csharpfundamental\cSharpFundamental\cleaningServiceTask\obj\Debug\net8.0\cleaningServiceTask.sourcelink.json
+D:\dotnet\csharpfundamental\cSharpFundamental\cleaningServiceTask\obj\Debug\net8.0\cleaningServiceTask.dll
+D:\dotnet\csharpfundamental\cSharpFundamental\cleaningServiceTask\obj\Debug\net8.0\refint\cleaningServiceTask.dll
+D:\dotnet\csharpfundamental\cSharpFundamental\cleaningServiceTask\obj\Debug\net8.0\cleaningServiceTask.pdb
+D:\dotnet\csharpfundamental\cSharpFundamental\cleaningServiceTask\obj\Debug\net8.0\cleaningServiceTask.genruntimeconfig.cache
+D:\dotnet\csharpfundamental\cSharpFundamental\cleaningServiceTask\obj\Debug\net8.0\ref\cleaningServiceTask.dll
